@@ -1,0 +1,9 @@
+keyboard
+pillow
+mss
+colorama
+os
+alive-progress
+sys
+time
+ctypes
